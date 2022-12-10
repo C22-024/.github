@@ -5,8 +5,8 @@ Barabaria adalah perangkat lunak pemesanan layanan yang ada pada barbershop sepe
 > - Android v1.0.0
 > - iOS v1.0.0
 
-[![android](./../img/android.png)](https://github.com)
-[![ios](./../img/ios.png)](https://github.com)
+[![android](https://github.com/C22-024/.github/blob/main/img/android.png)](https://github.com)
+[![ios](https://github.com/C22-024/.github/blob/main/img/ios.png)](https://github.com)
 
 ## Anggota Tim
 

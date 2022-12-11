@@ -43,12 +43,19 @@ Dari sana, `Barberia` hadir sebagai platform bagi barbershop dalam membangun bra
 Jika dilihat dari perkembangan teknologi di era saat ini, banyak masyarakat Indonesia yang masih belum mengenal platform digital khusus barbershop. Oleh karena itu, di sini kami berinisiatif untuk memberikan solusi dari permasalahan tersebut.
 
 ---
-
 ## Demo Barberia
-![home](https://user-images.githubusercontent.com/57694121/206890961-9c8445f2-bdb8-443f-b4b5-d14a81168c9b.gif) | 
-![order](https://user-images.githubusercontent.com/57694121/206891005-cffd8beb-7dc6-44d1-b558-4598ce0ad840.gif) |
-![ordering](https://user-images.githubusercontent.com/57694121/206891054-67f0b834-45d9-45b6-93fc-74c7ef351f7c.gif) |
 
+| Home | Booking | Payment |
+| ----------- | ----------- | -------- |
+| ![home](https://user-images.githubusercontent.com/57694121/206890961-9c8445f2-bdb8-443f-b4b5-d14a81168c9b.gif) | ![booking](https://user-images.githubusercontent.com/57694121/206892654-38459da6-26a9-4831-bbea-51f20c7c6540.gif) |![payment](https://user-images.githubusercontent.com/57694121/206892685-2cfbc030-734d-40e1-8aec-e82649bc576d.gif) |
+
+| SignUp | Location | Menus |
+| ----------- | ----------- | -------- |
+| ![signup](https://user-images.githubusercontent.com/57694121/206892003-117ec47e-b839-423a-bb38-de09c6b3abbb.gif) | ![location](https://user-images.githubusercontent.com/57694121/206892458-ea82aa57-b9b9-4b54-ab2c-5341ffca8f8c.gif) | ![switch](https://user-images.githubusercontent.com/57694121/206892043-391bde26-02d0-40f0-bfa9-4816f468df21.gif) |
+
+| Activities | Profile | Review |
+| ----------- | ----------- | -------- |
+| ![activities](https://user-images.githubusercontent.com/57694121/206892802-65250385-ca4b-450f-9c33-6acb4c5e9336.gif) | ![profile](https://user-images.githubusercontent.com/57694121/206892950-5273599d-0e96-47ce-910b-8aef0029b6ae.gif) | ![review](https://user-images.githubusercontent.com/57694121/206892978-84ce745b-7930-4fc2-879a-1b93cc4a0edf.gif) |
 
 
 ## Anggota Tim

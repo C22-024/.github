@@ -1,4 +1,8 @@
+<div id="top"></div>
+
 # Barberia (C22-024)
+
+[![Codemagic build status](https://api.codemagic.io/apps/63951d1cd09254b66ed1011d/63951d1cd09254b66ed1011c/status_badge.svg)](https://codemagic.io/apps/63951d1cd09254b66ed1011d/63951d1cd09254b66ed1011c/latest_build)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,11 +19,11 @@
     <a href="https://github.com/C22-024"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://barberia-web.vercel.app/" target="_blank">View Web</a>
+    <a href="https://barberia-web.vercel.app/" target="_blank">🌐 Situs Resmi</a>
     ·
-    <a href="https://github.com/C22-024/barberia/issues target="_blank"">Report Bug</a>
+    <a href="https://github.com/C22-024/barberia/issues" target="_blank">🐞 Laporkan Bug</a>
     ·
-    <a href="https://github.com/C22-024/barberia/issues target="_blank"">Request Feature</a>
+    <a href="https://github.com/C22-024/barberia/issues" target="_blank">🆕 Meminta Fitur</a>
   </p>
   <br />
   <a href="https://barberia-web.vercel.app/assets/download/barberia-v1.0.0.apk">
@@ -44,6 +48,8 @@ Dari sana, `Barberia` hadir sebagai platform bagi barbershop dalam membangun bra
 
 Jika dilihat dari perkembangan teknologi di era saat ini, banyak masyarakat Indonesia yang masih belum mengenal platform digital khusus barbershop. Oleh karena itu, di sini kami berinisiatif untuk memberikan solusi dari permasalahan tersebut.
 
+<p align="right"><a href="#top">back to top ⤴</a></p>
+
 ---
 ## Demo Barberia
 
@@ -59,6 +65,9 @@ Jika dilihat dari perkembangan teknologi di era saat ini, banyak masyarakat Indo
 | ----------- | ----------- | -------- |
 | ![activities](https://user-images.githubusercontent.com/57694121/206892802-65250385-ca4b-450f-9c33-6acb4c5e9336.gif) | ![profile](https://user-images.githubusercontent.com/57694121/206892950-5273599d-0e96-47ce-910b-8aef0029b6ae.gif) | ![review](https://user-images.githubusercontent.com/57694121/206892978-84ce745b-7930-4fc2-879a-1b93cc4a0edf.gif) |
 
+<p align="right"><a href="#top">back to top ⤴</a></p>
+
+---
 
 ## Anggota Tim
 
@@ -68,3 +77,5 @@ Semua anggota dari `P-03`:
 - [👨‍🎓 P322X0867 - T. Zafran Elrifqi (zafran72)](https://github.com/zafran72)
 - [👩‍🎓 P271Y0630 - Andrea Nataya Bantoro (xAndreaNB)](https://github.com/xAndreaNB)
 - [👨‍🎓 P007X0031 - Kukuh Setya Arumansyah (lyrihkaesa)](https://github.com/lyrihkaesa)
+
+<p align="right"><a href="#top">back to top ⤴</a></p>

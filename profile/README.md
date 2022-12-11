@@ -15,12 +15,14 @@
     <a href="https://github.com/C22-024"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/C22-024/barberia/issues">Report Bug</a>
+    <a href="https://barberia-web.vercel.app/" target="_blank">View Web</a>
     ·
-    <a href="https://github.com/C22-024/barberia/issues">Request Feature</a>
+    <a href="https://github.com/C22-024/barberia/issues target="_blank"">Report Bug</a>
+    ·
+    <a href="https://github.com/C22-024/barberia/issues target="_blank"">Request Feature</a>
   </p>
   <br />
-  <a href="https://github.com/C22-024">
+  <a href="https://barberia-web.vercel.app/assets/download/barberia-v1.0.0.apk">
         <img src="https://github.com/C22-024/.github/blob/main/img/android.png" alt="Unduh Android">
   </a>
   <p><b></i>v1.0.0</b></i></p>

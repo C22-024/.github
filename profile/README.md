@@ -44,6 +44,12 @@ Jika dilihat dari perkembangan teknologi di era saat ini, banyak masyarakat Indo
 
 ---
 
+## Demo Barberia
+![home](https://user-images.githubusercontent.com/57694121/206890961-9c8445f2-bdb8-443f-b4b5-d14a81168c9b.gif)
+![order](https://user-images.githubusercontent.com/57694121/206891005-cffd8beb-7dc6-44d1-b558-4598ce0ad840.gif)
+![ordering](https://user-images.githubusercontent.com/57694121/206891054-67f0b834-45d9-45b6-93fc-74c7ef351f7c.gif)
+
+
 ## Anggota Tim
 
 Semua anggota dari `P-03`:
